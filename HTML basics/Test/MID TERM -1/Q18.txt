@@ -1,0 +1,105 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="full">
+<div class="left">
+<div class="right">
+<div class="name">
+<h1>Ashutosh Singh</h1>
+</div>
+<div class="title">
+<h2>Student </h2>
+<h3>NIET Gr.NOIDA</h3>
+<a href="C:\Users\jaide\Coll.html">
+click hear to know about NIET
+</a>
+<h3>Department:- Artificial Intelligence</h3>
+<a href="file:///C:/Users/jaide/resume.html">
+click hear to know about department
+</a>
+</div>
+</div>
+<div class="Contact">
+<h2>Contact</h2>
+<p><b>Email id:</b>0211csai060@niet.co.in</p>
+<p><b>Mobile no :</b>9310817064</p>
+<div>
+</div>
+<div class="Skills">
+<h2>Skills</h2>
+<ul>
+<li><b>Programming Languages :
+Python, Java</b></li>
+<li><b>Frontend : HTML5, CSS3,
+JavaScript</b></li>
+<li><b>Backend : Node.js</b></li>
+<li><b>Other: Power BI</b></li>
+</ul>
+<h2>Certification</h2>
+<ul>
+<li><b>Python basics</b></li>
+<li><b>Cryptography</b></li>
+<li><b>Blockchain</b></li>
+<li><b>Power bi</b></li>
+</ul>
+</div>
+</div>
+<div class="Language">
+<h2>Language</h2>
+<ul>
+<li>English</li>
+<li>Hindi</li>
+<li>Japanese</li>
+</ul>
+</div>
+<div class="Hobbies">
+<h2>Hobbies</h2>
+<ul>
+<li>Playing Video games</li>
+<li>listning music</li>
+</ul>
+</div>
+</div>
+<div class="Education">
+<h2>Education</h2>
+<table border="4">
+<tr>
+<th>class</th>
+<th>Board/college </th>
+<th>Passing year </th>
+<th>percentage/cgpa</th>
+</tr>
+<tr>
+<td>10</td>
+<td>CBSE</td>
+<td>2019</td>
+<td>86.67%</td>
+</tr>
+<tr>
+<td>12</td>
+<td>CBSE</td>
+<td>2021</td>
+<td>80.2%</td>
+</tr>
+<tr>
+<td>BTech</td>
+<td>NIET</td>
+<td>2025</td>
+<td>Cntd..</td>
+</tr>
+</table>
+</div>
+<div class="project">
+<ul>
+<li>
+<h2>Project1</h2>
+<p>Barcode Scanner by Python</p>
+</li>
+
+</body>
+</html>

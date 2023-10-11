@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML5 Form Elements</title>
+</head>
+<body>
+
+<form action="/submit_form" method="post">
+
+    <label for="dob">Date of Birth:</label><br>
+    <input type="date" id="dob" name="dob"><br>
+
+    <label for="number">Number:</label><br>
+    <input type="number" id="number" name="number" min="1" max="100"><br>
+
+    <label for="range">Range:</label><br>
+    <input type="range" id="range" name="range" min="1" max="100"><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email"><br>
+
+    <label for="search">Search:</label><br>
+    <input type="search" id="search" name="search"><br>
+
+
+
+    <label for="dataList">Data List:</label><br>
+    <input list="browsers" id="dataList" name="dataList"><br>
+    <datalist id="browsers">
+        <option value="Internet Explorer">
+        <option value="Firefox">
+        <option value="Chrome">
+        <option value="Opera">
+        </option>
+
+    </form>
