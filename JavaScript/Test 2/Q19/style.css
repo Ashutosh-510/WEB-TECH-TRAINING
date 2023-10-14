@@ -1,0 +1,21 @@
+
+css
+.calculator {
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#display {
+  width: 100%;
+  height: 40px;
+  font-size: 18px;
+}
+
+.buttons button {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  margin: 5px;
+}
+
